@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Compiled binaries
+*.exe
+*.o
+
+# Runtime history and logs
+performance_history.json
+logs/
+*.log
+
+# Backup files
+*_backup.py
+*_before_*.py
+
+# Virtual environments
+.venv/
+venv/
