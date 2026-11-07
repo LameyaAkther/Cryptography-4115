@@ -1,0 +1,51 @@
+[
+    {
+        "simulation": 1,
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.1845,
+        "RTT_MS": 0.4792,
+        "TOTAL_CLIENT_MS": 3.9496
+    },
+    {
+        "simulation": 2,
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.1165,
+        "RTT_MS": 0.2612,
+        "TOTAL_CLIENT_MS": 2.47
+    },
+    {
+        "simulation": 3,
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.2229,
+        "RTT_MS": 0.5908,
+        "TOTAL_CLIENT_MS": 5.3543
+    },
+    {
+        "simulation": 4,
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.505,
+        "RTT_MS": 0.4376,
+        "TOTAL_CLIENT_MS": 5.5982
+    },
+    {
+        "simulation": 5,
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.1497,
+        "RTT_MS": 0.3069,
+        "TOTAL_CLIENT_MS": 3.3766
+    },
+    {
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.165,
+        "RTT_MS": 0.3608,
+        "TOTAL_CLIENT_MS": 3.9808,
+        "simulation": 6
+    },
+    {
+        "PACKET_BYTES": 73.0,
+        "ENCAPSULATION_MS": 0.2218,
+        "RTT_MS": 0.5969,
+        "TOTAL_CLIENT_MS": 4.9939,
+        "simulation": 7
+    }
+]
